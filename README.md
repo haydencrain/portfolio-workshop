@@ -1,12 +1,26 @@
 # Porfolio Website Creation Guide
 
 ## Step X - Create a Github Account
+1. Go to https://github.com/join
+2. Sign up using the form provided on the home page
 
 
 ## Step X - Create a Github Repository
+<img src="./images/new_repository.png" width="300"/>
 
+<img src="./images/create_repository.png" width="500"/>
 
 ## Step X - Download and Install Git
+
+TODO: flesh out this https://www.atlassian.com/git/tutorials/install-git
+
+### Mac
+https://git-scm.com/downloads
+
+### Windows
+https://gitforwindows.org/
+
+## Step X - Clone your repository
 
 
 ## Step X - Download and install Hugo
