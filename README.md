@@ -6,9 +6,16 @@
 
 
 ## Step X - Create a Github Repository
+1. Log into Github account!
+2. In the upper-right corner of the page, click **+** , and then click **New repository**.
+
 <img src="./images/new_repository.png" width="300"/>
 
+3. Type a name for your repository, and an optional description.
+
 <img src="./images/create_repository.png" width="500"/>
+
+4. Once done, click **Create repository**
 
 ## Step X - Download and Install Git
 
