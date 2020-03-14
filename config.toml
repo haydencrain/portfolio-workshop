@@ -13,13 +13,13 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "John Doe"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "L33t hacker and coder"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
@@ -87,14 +87,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-medium"
     weight = 5
     url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
-
 
 [languages]
     [languages.en]
@@ -111,11 +103,6 @@ disqusShortname = "yourdiscussshortname"
             name = "Blog"
             weight = 2
             url = "posts/"
-
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Contact"
@@ -145,11 +132,6 @@ disqusShortname = "yourdiscussshortname"
             name = "Blog"
             weight = 2
             url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "projects/"
 
             [[languages.pt-br.menu.main]]
             name = "Contato"

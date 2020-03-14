@@ -1,7 +1,7 @@
 +++
 date = "2019-01-17"
-title = "Hugo coder wiki"
-slug = "hugo-coder-wiki"
+title = "External Post Example"
+slug = "external-post-example"
 tags = [
     "hugo",
     "development",
@@ -10,6 +10,6 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/luizdepra/hugo-coder/wiki"
+externalLink = "https://www.facebook.com/UTSCSEC/"
 series = ["Hugo"]
 +++
