@@ -1,5 +1,5 @@
 baseurl = "https://utscyberblogexample.netlify.com/"
-title = "johndoe"
+title = "Cool Dog Guy"
 
 theme = "hugo-coder"
 
@@ -17,19 +17,19 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "L33t hacker and coder"
-    avatarurl = "images/avatar.jpg"
+    author = "Cool Dogs Guy"
+    description = "Cool Dog Guy's Personal Website"
+    keywords = "blog,developer,personal,hacker,student"
+    info = "Dog Enthuasiast and student"
+    avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     dateformat = "2 January, 2006"
 
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -67,12 +67,7 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/CoolDogGuy/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -80,14 +75,9 @@ pygmentscodefencesguesssyntax = true
     url = "https://twitter.com/johndoe/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fab fa-linkedin-in"
     weight = 4
     url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
 
 [languages]
     [languages.en]
