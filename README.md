@@ -46,6 +46,8 @@ https://gohugo.io/getting-started/installing#macos
 #### Linux:
 https://gohugo.io/getting-started/installing#linux
 
+**NOTE:** Please make sure you download the `hugo_extended` version!!!!! Otherwise it will no worky :(
+
 ### Cloning your repository
 1. Navigate to the folder of your choice
     ```
