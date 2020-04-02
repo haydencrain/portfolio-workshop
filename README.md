@@ -61,10 +61,16 @@ https://gohugo.io/getting-started/installing#linux
     ```
     $ git clone <repository-url>
     ```
+    
+### Reinstall the hugo-coder theme!
+```
+rm -rf themes/hugo-coder
+git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+```
 
 ### Running your Code Locally
 ```
-hugo server
+hugo serve -w
 ```
 
 ### Saving your Changes
